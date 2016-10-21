@@ -1,0 +1,7 @@
+.magify {
+	width: 30%;
+	transition: width 1000;
+}
+.magify:hover {
+	width: 100%;
+}
